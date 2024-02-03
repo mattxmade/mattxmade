@@ -2,13 +2,11 @@
 
 <img src="/media/readme_hero.svg" width="48%" align="right">
 
-I am developer who relishes new challenges. 
-
 Experience building responsive websites and applications using **HTML**, **CSS/Sass** and **JavaScript**.
 
 Built several projects using **React** and recently began learning **TypeScript** and **PHP**.
 
-Currently expanding my knowledge of full-stack web development via <a href="https://github.com/TheOdinProject">**The Odin Project**</a>, an open-source curriculum which covers topics on frontend/backend development, full-stack frameworks and databases.
+Currently learning full-stack web development via <a href="https://github.com/TheOdinProject">**The Odin Project**</a>, an open-source curriculum which covers topics on frontend/backend development, full-stack frameworks and databases.
 
 My most recent project is <a href="https://github.com/mattxmade/jarb">**Jarb**</a> - an interactive job board made with **Laravel**. Backend code is written in **PHP**; application frontend is written in **TypeScript** and built with **React**.
 
