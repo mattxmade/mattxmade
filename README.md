@@ -2,7 +2,7 @@
 
 <img src="/media/readme_hero.svg" width="48%" align="right">
 
-Experience building responsive websites and applications using **HTML**, **CSS/Sass** and **JavaScript**.
+Self-taught web developer with experience building responsive websites and applications using **HTML**, **CSS/Sass** and **JavaScript**.
 
 Built several projects using **React** and recently began learning **TypeScript** and **PHP**.
 
