@@ -12,7 +12,7 @@ My most recent projects are **Jarb** and **Cazzle**.
 
 <a href="https://github.com/mattxmade/jarb">**Jarb**</a> is an interactive job board made with **Laravel**. Backend code is written in **PHP**; application frontend is written in **TypeScript** and built with **React**.
 
-<a href="https://github.com/mattxmade/cazzle">**Cazzle**</a> is a property website made with **Next.js**. Application code is writtent in **TypeScript** and utilises the **React** ecosystem to build resuseable Components. A full-stack application; Cazzle leverages **Clerk Auth**, **Convex** and **Material UI**. 
+<a href="https://github.com/mattxmade/cazzle">**Cazzle**</a> is a property website made with **Next.js**. Application code is written in **TypeScript** and utilises the **React** ecosystem to build reuseable Components. A full-stack application; Cazzle leverages **Clerk Auth**, **Convex Database** and **Material UI**. 
 
 <br>
 
