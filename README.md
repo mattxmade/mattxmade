@@ -6,9 +6,11 @@ Self-taught web developer with experience building responsive websites and appli
 
 Built several projects using **React** and recently began learning **TypeScript** and **PHP**.
 
-Currently learning full-stack web development via <a href="https://github.com/TheOdinProject">**The Odin Project**</a>, an open-source curriculum which covers topics on frontend/backend development, full-stack frameworks and databases.
+Currently making my way through <a href="https://github.com/TheOdinProject">**The Odin Project**</a>, a free and open-source curriculum which covers topics on frontend/backend development, full-stack frameworks and databases.
 
-My most recent project is <a href="https://github.com/mattxmade/jarb">**Jarb**</a> - an interactive job board made with **Laravel**. Backend code is written in **PHP**; application frontend is written in **TypeScript** and built with **React**.
+My most recent project is **Jarb**.
+
+<a href="https://github.com/mattxmade/jarb">**Jarb**</a> - an interactive job board made with **Laravel**. Backend code is written in **PHP**; application frontend is written in **TypeScript** and built with **React**.
 
 <br>
 
