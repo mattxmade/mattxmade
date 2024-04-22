@@ -8,9 +8,11 @@ Built several projects using **React** and recently began learning **TypeScript*
 
 Currently making my way through <a href="https://github.com/TheOdinProject">**The Odin Project**</a>, a free and open-source curriculum which covers topics on frontend/backend development, full-stack frameworks and databases.
 
-My most recent project is **Jarb**.
+My most recent projects are **Jarb** and **Cazzle**.
 
-<a href="https://github.com/mattxmade/jarb">**Jarb**</a> - an interactive job board made with **Laravel**. Backend code is written in **PHP**; application frontend is written in **TypeScript** and built with **React**.
+<a href="https://github.com/mattxmade/jarb">**Jarb**</a> is an interactive job board made with **Laravel**. Backend code is written in **PHP**; application frontend is written in **TypeScript** and built with **React**.
+
+<a href="https://github.com/mattxmade/cazzle">**Cazzle**</a> is a property website made with **Next.js**. Application code is writtent in **TypeScript** and utilises the **React** ecosystem to build resuseable Components. A full-stack application; Cazzle leverages **Clerk Auth**, **Convex** and **Material UI**. 
 
 <br>
 
@@ -31,6 +33,7 @@ My most recent project is **Jarb**.
 <br>
 
 ## Recent Projects
+### <a href="https://github.com/mattxmade/cazzle">**Cazzle**</a> - Property website made with Next.js
 ### <a href="https://github.com/mattxmade/jarb">**Jarb**</a> - Job board made with Laravel
 ### <a href="https://github.com/mattxmade/gitfolio">**Gitfolio**</a> - Developer portfolio made with Next.js
 ### <a href="https://github.com/mattxmade/wireframeapparel">**Wireframe Apparel**</a> - E-commerce storefront built in React
