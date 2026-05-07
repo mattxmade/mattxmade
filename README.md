@@ -4,7 +4,7 @@
 
 Full-Stack Developer with experience building responsive websites and applications using **HTML**, **CSS**, **JavaScript/TypeScript**, **React** and **Next.js**.
 
-My most recent projects are **Jarb** and **Cazzle**.
+### Recent projects:
 
 <a href="https://github.com/mattxmade/jarb">**Jarb**</a> is an interactive job board made with **Laravel**. Backend code is written in **PHP**; application frontend is written in **TypeScript** and built with **React**.
 
@@ -13,8 +13,6 @@ My most recent projects are **Jarb** and **Cazzle**.
 <br>
 
 Currently working on an ESP32 based IOT project written in **C++** alongside a complimentary cross-platform mobile app built with **React-Native** and **TypeScript**.
-
-<br>
 
 ## Technologies
 <div align="center">
@@ -34,7 +32,7 @@ Currently working on an ESP32 based IOT project written in **C++** alongside a c
 
 <br>
 
-## Recent Projects
+## Live Projects
 ### <a href="https://github.com/mattxmade/cazzle">**Cazzle**</a> - Property website made with Next.js
 ### <a href="https://github.com/mattxmade/jarb">**Jarb**</a> - Job board made with Laravel
 ### <a href="https://github.com/mattxmade/gitfolio">**Gitfolio**</a> - Developer portfolio made with Next.js
